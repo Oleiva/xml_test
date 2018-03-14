@@ -1,0 +1,100 @@
+<DATA>
+    <QUERIES>
+        <QueriesBySectors xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" NationalId="47810211029">
+            <!--<SectorsQueries>-->
+            <SectorsQueries xmlns="http://tempuri.org/">
+                <SectorQueries SectorId="0">
+                    <SectorNameLT>Kita</SectorNameLT>
+                    <SectorNameEN>Other</SectorNameEN>
+                    <QueryCount Days="30" Count="10"/>
+                    <QueryCount Days="90" Count="20"/>
+                    <QueryCount Days="180" Count="30"/>
+                </SectorQueries>
+                <SectorQueries SectorId="1">
+                    <SectorNameLT>Draudimas</SectorNameLT>
+                    <SectorNameEN>Insurance</SectorNameEN>
+                    <QueryCount Days="30" Count="0"/>
+                    <QueryCount Days="90" Count="0"/>
+                    <QueryCount Days="180" Count="0"/>
+                </SectorQueries>
+                <SectorQueries SectorId="2">
+                    <SectorNameLT>Energetika ir komunaliniai ūkiai</SectorNameLT>
+                    <SectorNameEN>Energy and Utilities</SectorNameEN>
+                    <QueryCount Days="30" Count="0"/>
+                    <QueryCount Days="90" Count="0"/>
+                    <QueryCount Days="180" Count="0"/>
+                </SectorQueries>
+                <SectorQueries SectorId="3">
+                    <SectorNameLT>Finansinė veikla</SectorNameLT>
+                    <SectorNameEN>Financial institutions</SectorNameEN>
+                    <QueryCount Days="30" Count="0"/>
+                    <QueryCount Days="90" Count="0"/>
+                    <QueryCount Days="180" Count="12"/>
+                </SectorQueries>
+                <SectorQueries SectorId="5">
+                    <SectorNameLT>Kuras</SectorNameLT>
+                    <SectorNameEN>Fuel</SectorNameEN>
+                    <QueryCount Days="30" Count="0"/>
+                    <QueryCount Days="90" Count="0"/>
+                    <QueryCount Days="180" Count="0"/>
+                </SectorQueries>
+                <SectorQueries SectorId="6">
+                    <SectorNameLT>Pramonė</SectorNameLT>
+                    <SectorNameEN>Manufacturing</SectorNameEN>
+                    <QueryCount Days="30" Count="0"/>
+                    <QueryCount Days="90" Count="0"/>
+                    <QueryCount Days="180" Count="0"/>
+                </SectorQueries>
+                <SectorQueries SectorId="7">
+                    <SectorNameLT>Prekyba</SectorNameLT>
+                    <SectorNameEN>Trade</SectorNameEN>
+                    <QueryCount Days="30" Count="0"/>
+                    <QueryCount Days="90" Count="0"/>
+                    <QueryCount Days="180" Count="0"/>
+                </SectorQueries>
+                <SectorQueries SectorId="8">
+                    <SectorNameLT>Statyba ir NT</SectorNameLT>
+                    <SectorNameEN>Construction and real estate</SectorNameEN>
+                    <QueryCount Days="30" Count="0"/>
+                    <QueryCount Days="90" Count="0"/>
+                    <QueryCount Days="180" Count="0"/>
+                </SectorQueries>
+                <SectorQueries SectorId="9">
+                    <SectorNameLT>Telekomunikacija</SectorNameLT>
+                    <SectorNameEN>Telecommunications</SectorNameEN>
+                    <QueryCount Days="30" Count="0"/>
+                    <QueryCount Days="90" Count="0"/>
+                    <QueryCount Days="180" Count="1"/>
+                </SectorQueries>
+                <SectorQueries SectorId="10">
+                    <SectorNameLT>Transportas</SectorNameLT>
+                    <SectorNameEN>Transport</SectorNameEN>
+                    <QueryCount Days="30" Count="0"/>
+                    <QueryCount Days="90" Count="0"/>
+                    <QueryCount Days="180" Count="0"/>
+                </SectorQueries>
+                <SectorQueries SectorId="11">
+                    <SectorNameLT>Žemės ūkis ir kt.</SectorNameLT>
+                    <SectorNameEN>Agriculture</SectorNameEN>
+                    <QueryCount Days="30" Count="0"/>
+                    <QueryCount Days="90" Count="0"/>
+                    <QueryCount Days="180" Count="0"/>
+                </SectorQueries>
+                <SectorQueries SectorId="12">
+                    <SectorNameLT>Skolų išieškojimo įmonės</SectorNameLT>
+                    <SectorNameEN>Debt Collection</SectorNameEN>
+                    <QueryCount Days="30" Count="0"/>
+                    <QueryCount Days="90" Count="0"/>
+                    <QueryCount Days="180" Count="0"/>
+                </SectorQueries>
+                <SectorQueries SectorId="13">
+                    <SectorNameLT>Paslaugos</SectorNameLT>
+                    <SectorNameEN>Services</SectorNameEN>
+                    <QueryCount Days="30" Count="0"/>
+                    <QueryCount Days="90" Count="0"/>
+                    <QueryCount Days="180" Count="0"/>
+                </SectorQueries>
+            </SectorsQueries>
+        </QueriesBySectors>
+    </QUERIES>
+</DATA>
